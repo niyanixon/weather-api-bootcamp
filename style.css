@@ -1,0 +1,36 @@
+body{
+    background: radial-gradient(#ff9ab2, #ff628f);    
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    margin-top: 250px;
+}
+button{
+    height: 40px;
+    width: 41%;
+    display: block;
+    margin: auto;
+    background: rgb(255, 207, 215);
+}
+input{
+    height: 35px;
+    width: 25%;
+    padding: 10px;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.temperature{
+ font-size: 30px;
+    color: rgb(18, 11, 13);
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+button:hover{
+    background: rgb(253, 150, 167);
+}
